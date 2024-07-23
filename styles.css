@@ -1,0 +1,30 @@
+/* styles.css */
+#app {
+  background-color: black;
+  display: flex;
+}
+
+#films {
+  width: 200px;
+  list-style-type: none;
+  padding: 0;
+}
+
+.film.item {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.sold-out {
+  color: red;
+  text-decoration: line-through;
+}
+
+#movie-details {
+  margin-left: 20px;
+}
+
+#movie-poster {
+  width: 200px;
+}
