@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "title": "Descendants: The Rise of Red",
+        "description": "Follows Red, daughter of the Queen of Hearts, and Chloe, daughter of Cinderella, as they team up to save Auradon by traveling back in time using the White Rabbit's pocket watch, to stop an event that would cause grave consequences.",
+        "poster": "https://www.imdb.com/title/tt20202136/mediaviewer/rm47018497/?ref_=tt_ov_i",
+        "runtime": "N/A",
+        "capacity": 100,
+        "showtime": "08:00PM",
+        "tickets_sold": 0
+    },
+    {
+        "id": "2",
+        "title": "Deadpool & Wolverine",
+        "description": "Wolverine is recovering from his injuries when he crosses paths with the loudmouth Deadpool. They team up to defeat a common enemy.",
+        "poster": "https://www.imdb.com/title/tt6263850/mediaviewer/rm136803841/?ref_=tt_ov_i",
+        "runtime": "N/A",
+        "capacity": 100,
+        "showtime": "09:00PM",
+        "tickets_sold": 0
+    },
+    {
+        "id": "3",
+        "title": "IF",
+        "description": "A barber seeks vengeance after his home is burglarized, cryptically telling police his 'lakshmi' has been taken, leaving them uncertain if it's a person or object. His quest to recover the elusive 'lakshmi' unfolds.",
+        "poster": "https://www.imdb.com/title/tt11152168/mediaviewer/rm2582412545/?ref_=tt_ov_i",
+        "runtime": "N/A",
+        "capacity": 100,
+        "showtime": "07:00PM",
+        "tickets_sold": 0
+    },
+    {
+        "id": "4",
+        "title": "Kingdom of the Planet of the Apes",
+        "description": "Many years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.",
+        "poster": "https://www.imdb.com/title/tt11389872/mediaviewer/rm404060929/?ref_=tt_ov_i",
+        "runtime": "N/A",
+        "capacity": 100,
+        "showtime": "06:00PM",
+        "tickets_sold": 0
+    },
+    {
+        "id": "5",
+        "title": "Furiosa: A Mad Max Saga",
+        "description": "The origin story of renegade warrior Furiosa before her encounter and teamup with Mad Max.",
+        "poster": "https://www.imdb.com/title/tt12037194/mediaviewer/rm2656335361/?ref_=tt_ov_i",
+        "runtime": "N/A",
+        "capacity": 100,
+        "showtime": "10:00PM",
+        "tickets_sold": 0
+    }
+]
